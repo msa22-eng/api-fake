@@ -1,1 +1,22 @@
-{}
+{
+  "dicas": [
+    {
+      "id": 1,
+      "titulo": "Separe o lixo",
+      "descricao": "Separe os resíduos recicláveis dos resíduos orgânicos.",
+      "imagem": "https://exemplo.com/separar-lixo.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Recicle o plástico",
+      "descricao": "Garrafas e embalagens plásticas podem ser encaminhadas para a reciclagem.",
+      "imagem": "https://exemplo.com/plastico.png"
+    },
+    {
+      "id": 3,
+      "titulo": "Economize água",
+      "descricao": "Evite deixar a torneira aberta enquanto não estiver usando água.",
+      "imagem": "https://exemplo.com/economia-agua.png"
+    }
+  ]
+}
