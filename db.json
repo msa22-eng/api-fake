@@ -2,21 +2,18 @@
   "dicas": [
     {
       "id": 1,
-      "titulo": "Separe o lixo",
-      "descricao": "Separe os resíduos recicláveis dos resíduos orgânicos.",
-      "imagem": "https://exemplo.com/separar-lixo.png"
+      "urlimagem": "https://diamundialdalimpeza.com.br/wp-content/uploads/2025/05/O-Que-E-Reciclagem_-800x416.webp",
+      "texto": "O que é reciclar?"
     },
     {
       "id": 2,
-      "titulo": "Recicle o plástico",
-      "descricao": "Garrafas e embalagens plásticas podem ser encaminhadas para a reciclagem.",
-      "imagem": "https://exemplo.com/plastico.png"
+      "urlimagem": "https://ekkogreen.com.br/wp-content/uploads/2018/08/coleta-seletiva-cores.webp",
+      "texto": "Como separar corretamente?"
     },
     {
       "id": 3,
-      "titulo": "Economize água",
-      "descricao": "Evite deixar a torneira aberta enquanto não estiver usando água.",
-      "imagem": "https://exemplo.com/economia-agua.png"
+      "urlimagem": "https://rotaverde.com.br/wp-content/uploads/2023/05/Um-guia-para-linhas-de-embalagem-ecologicas.webp",
+      "texto": "Reutilizando embalagens"
     }
   ]
 }
