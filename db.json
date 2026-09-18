@@ -1,31 +1,19 @@
 {
-  "PROPRIEDADE": [
+  "dicas": [
     {
-      "id": "1",
-      "total": "R$ 500",
-      "avaliacao": "4.8",
-      "dates": "10 - 15 de setembro",
-      "local": "Maceió, AL",
-      "host": "João",
-      "urlImagem": "https://exemplo.com/imagem1.webp"
+      "id": 1,
+      "urlimagem": "https://diamundialdalimpeza.com.br/wp-content/uploads/2025/05/O-Que-E-Reciclagem_-800x416.webp",
+      "texto": "O que é reciclar?"
     },
     {
-      "id": "2",
-      "total": "R$ 750",
-      "avaliacao": "4.9",
-      "dates": "20 - 25 de setembro",
-      "local": "Maragogi, AL",
-      "host": "Maria",
-      "urlImagem": "https://exemplo.com/imagem2.webp"
+      "id": 2,
+      "urlimagem": "https://ekkogreen.com.br/wp-content/uploads/2018/08/coleta-seletiva-cores.webp",
+      "texto": "Como separar corretamente?"
     },
     {
-      "id": "3",
-      "total": "R$ 900",
-      "avaliacao": "4.7",
-      "dates": "05 - 10 de outubro",
-      "local": "Porto de Pedras, AL",
-      "host": "Carlos",
-      "urlImagem": "https://exemplo.com/imagem3.webp"
+      "id": 3,
+      "urlimagem": "https://rotaverde.com.br/wp-content/uploads/2023/05/Um-guia-para-linhas-de-embalagem-ecologicas.webp",
+      "texto": "Reutilizando embalagens"
     }
   ]
 }
